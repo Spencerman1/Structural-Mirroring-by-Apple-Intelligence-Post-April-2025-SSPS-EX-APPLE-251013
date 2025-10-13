@@ -1,0 +1,53 @@
+﻿SHA256 Manifest generated on 2025-10-13 17:18:34
+78C70589654B085DD5F3A2333CC0B91D942E713AF1CDAF9044E7A2FD10FA3771 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\1 Screenshot 2025-10-13 155849.png
+9283F7C26C0B93F422BCE3DB3D7CBEB0AD149796837D7938C980BF88FC4F00BE *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\10 Screenshot 2025-10-13 160414.png
+A8A469EBF07CC76043F471D170A488572ED28B0E76C18AF487787651BC1756EE *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\11 Screenshot 2025-10-13 160523.png
+A8A469EBF07CC76043F471D170A488572ED28B0E76C18AF487787651BC1756EE *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\12 Screenshot 2025-10-13 160523.png
+79DB1696571FA2F505F07CB350F6CC429B8B877596F07DE6385F276F4DFD99CC *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\12 Screenshot 2025-10-13 160604.png
+5B39B1DF23DCDEDC5D9589A269542B3676A7292C9D3EAE820471B51C2366CE3A *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\13 Screenshot 2025-10-13 160634.png
+25F9D389938306C3C1F43F4B8940EB7F1590840A5108CFC643E2023613530BB5 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\14Screenshot 2025-10-13 160659.png
+A6EE398A14B28E008F0421F551EFFFE6791B58958E08DEE23CCACE65BF0F433D *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\15 Screenshot 2025-10-13 160745.png
+94D2EBC51C5167EC6475B10234630A3CBE38E96476B61517EEAB62BAE9E6DA96 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\16 Screenshot 2025-10-13 160811.png
+F491D5597D87A966870D72C1FD3465599900951C8873708903603F272E51CA68 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\17 Screenshot 2025-10-13 160847.png
+D2FA8B4BA9FDF5993BD5D99553ACC4FA88DBBDBA34E8B618DF78A7466A6348CA *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\18 Screenshot 2025-10-13 160913.png
+34DA42CD40F5F1D5936787BF5FC4335A4C19764DC9B82A38508E2814F7D547B9 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2 Screenshot 2025-10-13 160009.png
+660287F9168A80DEE889CAB5E5E0D73EAE5992D45AB4D727F35321C3D45C66A7 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\3 Screenshot 2025-10-13 160042.png
+D98CC3578C5C0BC4BAECA223F260FEBAE5F978DECEC10923C4B6D187E3057699 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\4 Screenshot 2025-10-13 160107.png
+36B1EC8F59831BF7E577D2CD048A54F38D95975C655615AE1C1A11C2805809CE *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\5 Screenshot 2025-10-13 160134.png
+60C3622E379411AB763F75BC17781878ACBC6C56EFD381D3EA61AEFBBE2972B2 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\6 Screenshot 2025-10-13 160204.png
+4216DDD6942296BA56BD17DBE30CFFB82DB585D02D596A9D4CCD4EED72BE0D2F *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\7 Screenshot 2025-10-13 160232.png
+4BE108E99C037E34856B2BB14CB9DCAFBE61132ECCC91D32C09A9A9875838D01 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\8 Screenshot 2025-10-13 160301.png
+B5466A12D23C1B557C9B40FDC96149869737B9E872206E81E337F90AAD250418 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\9 Screenshot 2025-10-13 160349.png
+306035E91CCA7DD914F5F3816FAE9A413453DEBAD7E6442EB775E206B208A890 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\SHA256_manifest.txt
+BF193F97E95C417D0F318D38272FB4FC869FCCE8C924C3989CCCFD91F8A1BE9B *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\10 Screenshot 2025-10-13 162505.png
+7ED2933287E3CE07AE2286AE4AA3E0B0F4BECB1053FC8BA4ED0E74778B17561B *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\11 Screenshot 2025-10-13 162532.png
+D009481C5B911F59917815BC61D3D7B9CBBC6B976B0B900F153ADF6B413F781F *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\12 Screenshot 2025-10-13 162554.png
+11F6E6D29A5C3A79019298E62212CB045D75D944B17C5853EB6D637014E9943F *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\13 Screenshot 2025-10-13 162620.png
+29519CD26A259C0F81F6E804F79A20E5A2A44667A278E66CECB6F1247699AF75 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\14 Screenshot 2025-10-13 162654.png
+05AED47D1D7A675EE60FBB4E1BA51B75940E375988B14605C65B5614288E26BC *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\15 Screenshot 2025-10-13 162723.png
+63E88DD55487078285603F888E7AAF6DAF8A7F7F4EDC9FFA3DEE5C3B82B8BA53 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\16 Screenshot 2025-10-13 162748.png
+97532429F8FFEF4A7D14FA86C23B9480A6D8E7AB0B7A0450FD882798D5D09646 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\17 Screenshot 2025-10-13 162816.png
+09E79999EA670BEBBCF2CBF7F43B37E0BD0D8916593B44D414A9B972AF15CEF1 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\18 Screenshot 2025-10-13 162845.png
+79B939CCA54A23DC299B572C31222376718F3DEC809AB24C8670A9F7821660A3 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\19 Screenshot 2025-10-13 162913.png
+D80C4C73424AC8F5AF6F8368160133B148DC299911C51538F3926398923FCCC2 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\2 Screenshot 2025-10-13 162034.png
+D9585D641F019AF280E546D9CCED0EC1D9E637DEB0AE61F80D8D0500C04B24ED *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\20 Screenshot 2025-10-13 162931.png
+14A7950ED74CBE7D0192EBD7A37FA47C3B2E7CFC103C6267D2172F091CBFCD05 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\3 Screenshot 2025-10-13 162054.png
+FA1F3475D8F7812046F6D095FB35768514E9A9826EF59C14324D0F55DA512393 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\4 Screenshot 2025-10-13 162122.png
+5EE819E7A3A95DC6B35D509AF1129BA988A73801329E33A21F441CB69A3F9E98 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\5 Screenshot 2025-10-13 162147.png
+F35B246564F4C8C9961B1F22C208DF66697867BBD18ED8AE182B52D167BFC5F7 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\6 Screenshot 2025-10-13 162219.png
+5E01E0A6A45868E6BA2F28A02880629325970FF4FA2DAC3ED6F2C5224373D1DD *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\7 Screenshot 2025-10-13 162317.png
+B55C7515F1FB07471073D4F50576BFB0C2DB063DBC8FAD99544CDE791BD73329 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\8 Screenshot 2025-10-13 162409.png
+AAD38401648D7F5B1485CEADB1C7B9B4E8A8DE8789DD28E54067DC97923ABC8C *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\9 Screenshot 2025-10-13 162437.png
+DCD4323B83C9BBCDF32EC2280C97634AE350F51E7B243BECC248E40AD97D0512 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\Screenshot 2025-10-13 162004.png
+E4289AB7CFAD93D63CCF444D20811566202B0CF7CFB51D0659A03F9AE1F7A9D6 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\3\10 Screenshot 2025-10-13 165229.png
+70A363B7D9F506CB28D694244482438C13D5ECB4CACC6FCEE9AAA760E1CD7A5B *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\3\11 Screenshot 2025-10-13 165253.png
+BF20325409EE2767B63DD847A8708D25F404CA1694EB5700DF1B675897B4828E *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\3\12 Screenshot 2025-10-13 165508.png
+25E6679E33BB486F5326BFC9EBD65108B355A8854B714CFFBD1B3DF016D968C1 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\3\2 Screenshot 2025-10-13 164535.png
+9DC5C60502568959E22BB72834E7EB54AD50ABA3AA5B936A5CDBFD3DE2AC547D *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\3\3 Screenshot 2025-10-13 164620.png
+61ECEE6C5DAE73968EE2800E9301D9BFE19E0223AC8F889DDAA81D5F0341D50E *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\3\4 Screenshot 2025-10-13 164652.png
+7E8AF61217C4D6551890E72784EFEE2C5DC3E1BDF55C519D4C60C8EDC130506E *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\3\5 Screenshot 2025-10-13 164738.png
+421F9A32346D4841474065C27ACE49C3FADEAA2FAEEB13EDC337497B4109AAE6 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\3\6 Screenshot 2025-10-13 164811.png
+35945A7ED364B250AE8784E21C5AE653F14EAA7583C39C4A8F4C641E932420DF *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\3\7 Screenshot 2025-10-13 164906.png
+38EE09AC094F0628F8830F1DBC372A51E6B374971CFF6C09F586CE9EA3338CA3 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\3\8 Screenshot 2025-10-13 165113.png
+D28D27D940253D65F0BAEBD55940D9FF1DD14F6DC302001F57CB9B4EBCD39AC6 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\3\9 Screenshot 2025-10-13 165148.png
+25E6679E33BB486F5326BFC9EBD65108B355A8854B714CFFBD1B3DF016D968C1 *C:\Users\Spenc\Desktop_Local\Apple snippets to recreate IP launcdering syndicate\2\3\Screenshot 2025-10-13 164535.png
